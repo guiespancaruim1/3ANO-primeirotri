@@ -15,6 +15,9 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
+.img{
+    width: 250px;
+}
 
 .conteudo-principal {
     display: flex;
@@ -77,6 +80,8 @@ body {
 
 .aba-conteudo{
     display: none;
+    align-items: center;
+    text-align: center;
 }
 
 .aba-conteudo-titulo-principal{
